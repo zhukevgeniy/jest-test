@@ -1,0 +1,7 @@
+{
+  "testRunner": "jest-circus/runner",
+  "testEnvironment": "jsdom",
+  "setupFilesAfterEnv": [
+    "<rootDir>/src/setupTests.ts"
+  ]
+}
